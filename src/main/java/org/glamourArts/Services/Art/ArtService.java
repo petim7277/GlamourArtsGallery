@@ -1,2 +1,4 @@
-package org.glamourArts.Services;public interface ArtService {
+package org.glamourArts.Services.Art;
+
+public interface ArtService {
 }

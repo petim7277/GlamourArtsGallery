@@ -1,4 +1,4 @@
-package org.glamourArts.Dtos.Request;
+package org.glamourArts.Dtos.Request.AdminRequest;
 
 public class AdminRegisterRequest {
 }

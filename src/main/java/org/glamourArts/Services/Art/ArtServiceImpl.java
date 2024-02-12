@@ -1,2 +1,4 @@
-package org.glamourArts.Services.Art;public class ArtServiceImpl {
+package org.glamourArts.Services.Art;
+
+public class ArtServiceImpl {
 }

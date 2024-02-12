@@ -1,2 +1,4 @@
-package org.glamourArts.Dtos.Request.ArtRequest;public class ArtRequest {
+package org.glamourArts.Dtos.Request.ArtRequest;
+
+public class ArtRequest {
 }

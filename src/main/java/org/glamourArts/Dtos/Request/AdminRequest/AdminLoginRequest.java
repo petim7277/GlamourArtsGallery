@@ -1,2 +1,4 @@
-package org.glamourArts.Dtos.Request.AdminRequest;public class AdminLoginRequest {
+package org.glamourArts.Dtos.Request.AdminRequest;
+
+public class AdminLoginRequest {
 }

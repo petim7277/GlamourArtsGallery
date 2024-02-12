@@ -1,2 +1,4 @@
-package org.glamourArts.Dtos.Request.BuyerRequest;public class BuyerLoginRequest {
+package org.glamourArts.Dtos.Request.BuyerRequest;
+
+public class BuyerLoginRequest {
 }
